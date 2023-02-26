@@ -3,7 +3,7 @@
 # Description: Simplified Tic Tac Toe game :-)
 #              Tested on Linux, RHEL 8.5
 # Usage: TicTacToe.py
-# Author: gaznick - katoda.pl - gaznick@katoda.pl
+# Author: CheerfulAnt@outlook.com
 # Version: 1.0
 # Date: 23 February 2022 - 21:00 (UTC+02:00)
 
